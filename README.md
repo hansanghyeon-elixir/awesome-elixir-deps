@@ -10,3 +10,9 @@
 - 마크다운 파서
   - https://github.com/pragdave/earmark
   - https://hex.pm/packages/earmark
+
+## 테스트
+
+- 속성기반 테스트
+  - https://github.com/pragdave/quixir
+  - https://hex.pm/packages/quixir
